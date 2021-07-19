@@ -1,0 +1,21 @@
+Git training
+
+	1) Download GIT for windows from https://gitforwindows.org/
+	Email :- swastik.giit@gmail.com
+	User  :-          
+	
+Creating GIT repos in GitHub
+
+1)My git demo project is at https://github.com/swastik-giit/git-demo.
+2)Download desktop github
+
+Git Commands
+	1) git clone {url}-- this is your github url . Make sure git hub desktop is installed in the computer and signed in.
+	2)git status (gives the current status about the directory)
+	3)git add {file name} {This is used to stage the file} (This will add your file to staging locally)
+	4)git reset HEAD {file name} {This is used to unstage the file}
+	5) git commit -m "Put comment here". (This will commit your file locally)
+	6) git push origin main (This will push your file to the main directory)
+
+	
+	
